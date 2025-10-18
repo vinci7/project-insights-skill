@@ -6,10 +6,10 @@
   "type": "skill",
   "categories": ["development-tools", "analysis", "documentation"],
   "tags": ["metrics", "git", "statistics", "code-analysis", "reporting"],
-  "homepage": "https://github.com/yourusername/project-insights-skill",
+  "homepage": "https://github.com/vinci7/project-insights-skill",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/project-insights-skill.git"
+    "url": "https://github.com/vinci7/project-insights-skill.git"
   },
   "license": "Apache-2.0",
   "skills": [

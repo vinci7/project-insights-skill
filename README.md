@@ -45,7 +45,7 @@ Status indicators: 🟢 Active 🟡 Maintenance 🔴 Deprecated
 /plugin marketplace add /path/to/project-insights-skill
 
 # Or clone and register
-git clone https://github.com/yourusername/project-insights-skill.git ~/claude-skills/
+git clone https://github.com/vinci7/project-insights-skill.git ~/claude-skills/
 /plugin marketplace add ~/claude-skills/project-insights-skill
 ```
 
@@ -251,7 +251,7 @@ Contributions welcome! Areas to improve:
 - [ ] Export formats (PDF, HTML)
 
 To contribute:
-1. Fork this repository
+1. Fork [this repository](https://github.com/vinci7/project-insights-skill)
 2. Create a feature branch
 3. Make your changes
 4. Submit a pull request
@@ -284,8 +284,8 @@ Created with ❤️ by the Claude Code community.
 
 ## Support
 
-- **Issues**: Report bugs or request features via GitHub Issues
-- **Discussions**: Join community discussions
+- **Issues**: [Report bugs or request features](https://github.com/vinci7/project-insights-skill/issues)
+- **Discussions**: [Join community discussions](https://github.com/vinci7/project-insights-skill/discussions)
 - **Documentation**: See [Anthropic Skills Documentation](https://docs.claude.com/skills)
 
 ## Acknowledgments

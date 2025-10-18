@@ -163,7 +163,7 @@ Use project-insights to analyze this workspace and compare packages
 
 - 📚 [Full Documentation](README.md)
 - 💬 [Anthropic Skills Docs](https://docs.claude.com/skills)
-- 🐛 [Report Issues](https://github.com/yourusername/project-insights-skill/issues)
+- 🐛 [Report Issues](https://github.com/vinci7/project-insights-skill/issues)
 
 ---
 
